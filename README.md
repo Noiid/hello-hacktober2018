@@ -60,6 +60,7 @@ dan buat Pull Request ke branch master
 - [@hilalarsa](https://github.com/hilalarsa)
 - [@Yudhst](https://github.com/Yudhst)
 - [@Noiid](https://github.com/Noiid)
+- [@bluohazard](https://github.com/bluohazard)
 
 ## :octocat: Organization
 ![](res/item.png)
